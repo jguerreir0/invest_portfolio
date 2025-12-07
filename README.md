@@ -138,6 +138,4 @@ flutter run
 
 ## 🧑‍💻 Author
 
-João Guerreiro
-Senior Flutter Developer
-Portugal 🇵🇹
+João Guerreiro , Senior Flutter Developer , Portugal 🇵🇹
